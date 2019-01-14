@@ -1,0 +1,24 @@
+{
+  "name": "walmarttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreevalliboppana/WalmartTest.git"
+  },
+  "author": "SB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreevalliboppana/WalmartTest/issues"
+  },
+  "homepage": "https://github.com/sreevalliboppana/WalmartTest#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1"
+  }
+}
